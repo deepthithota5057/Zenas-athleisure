@@ -1,2 +1,2 @@
-snowflake.snowpark.context
+snowflake.snowpark.python
 streamlit
